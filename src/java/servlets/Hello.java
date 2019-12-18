@@ -23,7 +23,7 @@ import org.hibernate.SessionFactory;
  *
  * @author 17688
  */
-public class Requests extends HttpServlet {
+public class Hello extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
